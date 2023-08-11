@@ -1,0 +1,33 @@
+body{
+background-color: rgb(93, 107, 235);
+}
+
+.primeiraparte{
+    background-color: blueviolet;
+}
+
+.foto-principal {
+    width: 600px;
+}
+
+.foto{
+    height: 200px;
+}
+
+.todososestudantes {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#titulo-principal {
+    text-align: center;
+}
+
+.primeiraparte {
+    text-align: center;
+}
+
+.quemsao {
+    text-align: center;
+}
